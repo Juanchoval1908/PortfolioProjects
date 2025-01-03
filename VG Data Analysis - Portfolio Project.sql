@@ -1,7 +1,7 @@
 /*
 Video Game Data Exploration
 
-Skills to use: Joins, CTE's, Temp Tables, Window Functions, Aggregate Functions, Creating Views
+Skills used: Joins, CTE's, Temp Tables, Window Functions, Aggregate Functions, Creating Views
 */
 
 -- View of the whole data
